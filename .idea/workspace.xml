@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b399cab-4f70-4fda-89ba-abf04741a3a5" name="Changes" comment="added resources, including texture for pieces and board">
+    <list default="true" id="4b399cab-4f70-4fda-89ba-abf04741a3a5" name="Changes" comment="added chess board to scene">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/chessbut___/ChessApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/chessbut___/ChessApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/chessbut___/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/chessbut___/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,11 +86,19 @@
       <option name="project" value="LOCAL" />
       <updated>1674421222617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added chess board to scene">
+      <created>1674424342630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674424342630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added resources, including texture for pieces and board" />
-    <option name="LAST_COMMIT_MESSAGE" value="added resources, including texture for pieces and board" />
+    <MESSAGE value="added chess board to scene" />
+    <option name="LAST_COMMIT_MESSAGE" value="added chess board to scene" />
   </component>
 </project>
